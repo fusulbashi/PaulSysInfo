@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">PaulSysInfo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="item_account">Accounts</string>
+    <string name="account_none">No registered account!</string>
+    <string name="account_auth">Authenticator</string>
+    <string name="account_auth_none">No authenticator!</string>
+    <string name="account_auth_package">Package</string>
+    <string name="account_auth_type">Type</string>
+
+    <string name="item_camera">Camera</string>
+    <string name="camera_none">No camera!</string>
+    <string name="camera_count">Number of cameras</string>
+    <string name="camera_name">Camera %1$d</string>
+    <string name="camera_mute_shutter_sound">Shutter sound disable</string>
+    <string name="camera_allowed">Allowed</string>
+    <string name="camera_not_allowed">Not allowed</string>
+    <string name="camera_facing">Facing</string>
+    <string name="camera_facing_back">Back (opposite to screen)</string>
+    <string name="camera_facing_front">Front (same as screen)</string>
+    <string name="camera_orientation">Orientation</string>
+    <string name="camera_max_zoom">Max zoom</string>
+    <string name="camera_supported_antibanding">Supported antibanding</string>
+    <string name="camera_supported_color_effects">Supported color effects</string>
+    <string name="camera_supported_flash_modes">Supported flash modes</string>
+    <string name="camera_supported_focus_modes">Supported focus modes</string>
+    <string name="camera_supported_picture_formats">Supported picture formats</string>
+    <string name="camera_supported_picture_sizes">Supported picture sizes</string>
+    <string name="camera_supported_thumbnail_sizes">Supported JPEG thumbnail sizes</string>
+    <string name="camera_supported_preview_formats">Supported preview formats</string>
+    <string name="camera_supported_preview_fps">Supported preview FPS range</string>
+    <string name="camera_supported_preview_sizes">Supported preview sizes</string>
+    <string name="camera_supported_scene_modes">Supported scene modes</string>
+    <string name="camera_supported_video_sizes">Supported video sizes</string>
+    <string name="camera_supported_white_balance">Supported white balance</string>
+    <string name="camera_zoom_ratios">Zoom ratios</string>
+    <string name="camera_features">Other features</string>
+    <string name="camera_auto_exposure_lock">Auto-exposure locking</string>
+    <string name="camera_auto_white_balance_lock">Auto-white balance locking</string>
+    <string name="camera_smooth_zoom">Smooth zoom</string>
+    <string name="camera_video_snapshot">Video snapshot</string>
+    <string name="camera_video_stabilization">Video stabilization</string>
+    <string name="camera_zoom">Zoom</string>
+
+    <string name="item_connectivity">Connectivity</string>
+    <string name="connectivity_none">No connectivity!</string>
+    <string name="connectivity_state">State</string>
+    <string name="connectivity_extra_info">Extra information</string>
+    <string name="connectivity_roaming">(roaming)</string>
+    <string name="connectivity_unavailable">(unavailable)</string>
+
+
+    <string name="item_drm">DRM engines</string>
+    <string name="drm_none">No DRM engine!</string>
+    <string name="drm_req_sdk_11">Requires SDK version 11 or higher.</string>
+
+    <string name="item_memory">Memory</string>
+    <string name="memory_available">Available</string>
+    <string name="memory_total">Total</string>
+    <string name="memory_threshold">Low threshold</string>
+    <string name="memory_total_pss">Total PSS</string>
+    <string name="memory_total_shared">Total shared dirty</string>
+    <string name="memory_total_private">Total private dirty</string>
+    <string name="memory_dalvik_pss">Dalvik PSS</string>
+    <string name="memory_dalvik_shared">Dalvik shared dirty</string>
+    <string name="memory_dalvik_private">Dalvik private dirty</string>
+    <string name="memory_native_pss">Native PSS</string>
+    <string name="memory_native_shared">Native shared dirty</string>
+    <string name="memory_native_private">Native private dirty</string>
+    <string name="memory_other_pss">Other PSS</string>
+    <string name="memory_other_shared">Other shared dirty</string>
+    <string name="memory_other_private">Other private dirty</string>
+    <string name="memory_runtime_free">Free in current heap</string>
+    <string name="memory_runtime_max">Max heap</string>
+    <string name="memory_runtime_total">Current heap</string>
+
+    <string name="unsupported">* Unsupported or error</string>
+    <string name="none">* None</string>
+    <string name="unknown">* Unknown</string>
+    <string name="invalid_item">* Invalid item</string>
+    <string name="sdk_version_required">* Requires SDK version %1$d or higher.</string>
+</resources>
